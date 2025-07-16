@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## 👨🏽‍💻 Sobre mí
 
 - 🧠 Siempre aprendiendo algo nuevo últimamente: React, 
 - 🔧 Me encanta construir soluciones reales con código limpio y eficiente
