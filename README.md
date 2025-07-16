@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alejandro
+# 👋🏽 ¡Hola! Soy Alejandro
 
 ¡Bienvenido a mi espacio en GitHub! Aquí vas a encontrar una mezcla de código, creatividad y pasión por la tecnología. Soy desarrollador frontend, amante del aprendizaje autonomo y creyente del poder de la comunidad open-source.
 
