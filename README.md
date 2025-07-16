@@ -6,7 +6,7 @@
 
 ## 👨🏽‍💻 Sobre mí
 
-- 🧠 Siempre aprendiendo algo nuevo últimamente: React, 
+- 🧠 Siempre aprendiendo algo nuevo últimamente: React
 - 🔧 Me encanta construir soluciones reales con código limpio y eficiente
 - 🎯 Apuntando siempre a escribir software que inspire y funcione
 
