@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Alejandro]
 
-<!--
-**Yefri-18/Yefri-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi espacio en GitHub! Aquí vas a encontrar una mezcla de código, creatividad y pasión por la tecnología. Soy desarrollador(a) [tu stack principal: fullstack, backend, frontend, mobile, etc.], amante del café ☕ y creyente del poder de la comunidad open-source.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🧠 Siempre aprendiendo algo nuevo (últimamente: [tema o tecnología actual])
+- 🔧 Me encanta construir soluciones reales con código limpio y eficiente
+- 🌎 Hablo código en: `JavaScript` | `Python` | `Node.js` | [otros lenguajes o frameworks]
+- 🎯 Apuntando siempre a escribir software que inspire y funcione
+
+---
